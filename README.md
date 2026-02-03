@@ -15,9 +15,10 @@ Provide interactive dashboards for business decision-making.
 
 🛠️ Tools & Technologies
 
-Tool: Power BI Desktop.
-Data Sources: CSV / Excel / SQL Server / Cloud databases (depending on dataset)
+Tool: Power BI Desktop 
 
+Data Sources: CSV / Excel / SQL Server / Cloud databases (depending on dataset)
+ 
 🔍 Key Insights
 
 Customers with shorter tenure tend to churn more frequently.
