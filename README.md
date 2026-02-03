@@ -15,7 +15,7 @@ Provide interactive dashboards for business decision-making.
 
 🛠️ Tools & Technologies
 
-Tool: Power BI Desktop
+Tool: Power BI Desktop.
 Data Sources: CSV / Excel / SQL Server / Cloud databases (depending on dataset)
 
 🔍 Key Insights
